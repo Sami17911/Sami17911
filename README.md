@@ -1,5 +1,5 @@
-👋 Hi, I’m Samiksha Kuamri.
-🌱 I’m currently pursuing B.tech.
+👋 Hi, I’m Samiksha Kuamri.                                                                             
+🌱 I’m currently pursuing B.tech.                                                                           
 👀 I’m passionate about front-end development , building responsive websites and continuously improving my coding skills.
 
 
